@@ -1,6 +1,8 @@
 rm3-docker
 ==========
 
+[![](https://imagelayers.io/badge/rm3web/rm3:latest.svg)](https://imagelayers.io/?images=rm3web/rm3:latest 'Get your own badge on imagelayers.io')
+
 What is it?
 -----------
 
