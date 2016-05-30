@@ -14,6 +14,6 @@ RUN chmod 0600 ~/.pgpass
 RUN mkdir /src
 
 WORKDIR /src
-RUN npm install rm3
+RUN npm install rm3@0.1.2
 
 ADD setup.sh setup.sh
