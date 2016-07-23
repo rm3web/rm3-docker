@@ -1,7 +1,7 @@
 rm3-docker
 ==========
 
-[![](https://imagelayers.io/badge/rm3web/rm3:latest.svg)](https://imagelayers.io/?images=rm3web/rm3:latest 'Get your own badge on imagelayers.io')[![rm3](https://img.shields.io/badge/rm3%20version-0.2.0-3F00FF.svg)](https://github.com/rm3web/rm3)
+[![](https://imagelayers.io/badge/rm3web/rm3:latest.svg)](https://imagelayers.io/?images=rm3web/rm3:latest 'Get your own badge on imagelayers.io')[![rm3](https://img.shields.io/badge/rm3%20version-0.2.1-3F00FF.svg)](https://github.com/rm3web/rm3)
 
 What is it?
 -----------
