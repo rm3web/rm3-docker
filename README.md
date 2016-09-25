@@ -1,7 +1,7 @@
 [rm3 Docker Container](https://hub.docker.com/r/rm3web/rm3/)
 ============================================================
 
-[![rm3](https://img.shields.io/badge/rm3%20version-0.2.3-3F00FF.svg)](https://github.com/rm3web/rm3)
+[![rm3](https://img.shields.io/badge/rm3%20version-0.3.0-3F00FF.svg)](https://github.com/rm3web/rm3)
 
 What is it?
 -----------
@@ -11,18 +11,18 @@ rm3 is a system for managing stuff on the web. It's a little more than just a bl
 Release Status
 --------------
 
-This is currently in PRE-ALPHA state, defined as:
-* I'm not yet trying to run this in production, so you definitely shouldn't.
-* Any data you put in here you should be prepared to reconstruct without the benefit of a migration tool.
-* Security and stability bugs are to be expected.  You probably don't want this exposed on the public internet
-* Key features are missing.
-* The basic structure of code is assumed to be unstable and any APIs are subject to change
-
-The next milestone is ALPHA, defined as:
+This is currently in ALPHA state, defined as:
+* I'm running it in production
 * Key features are not missing
-* Any data you put in here you should be prepared to reconstruct without the benefit of a migration tool.
+* Any data you put in here you should be prepared to reconstruct without the benefit of a migration tool (but I'm going to try very hard to avoid that)
 * Security and stability bugs are to be expected.
 * Some stable internal APIs will be present.
+
+The next milestone is BETA, defined as:
+* Key features are not missing
+* Any data you put in here should be able to be migrated with an offline migration where you need to shut down the site momentarily
+* Stability bugs are to be expected.
+* Stable APIs will be present.
 
 How to get started?
 -------------------
