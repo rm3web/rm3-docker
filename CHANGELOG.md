@@ -4,6 +4,11 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.0] - 2016-9-25
+
+### Changed
+- Updated rm3 version
+
 ## [0.2.3] - 2016-7-30
 
 ### Changed
@@ -19,6 +24,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ### Changed
 - Updated rm3 version
 
-[Unreleased]: https://github.com/rm3web/rm3-docker/compare/v0.2.3...HEAD
+[Unreleased]: https://github.com/rm3web/rm3-docker/compare/v0.3.0...HEAD
+[0.2.3]: https://github.com/rm3web/rm3-docker/compare/v0.2.3...v0.3.0
 [0.2.3]: https://github.com/rm3web/rm3-docker/compare/v0.2.1...v0.2.3
 [0.2.1]: https://github.com/rm3web/rm3-docker/compare/v0.2.0...v0.2.1
