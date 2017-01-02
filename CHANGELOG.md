@@ -4,6 +4,18 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [0.3.2] - 2017-1-2
+
+### Changed
+- Updated rm3 version
+
+
+## [0.3.1] - 2017-1-2
+
+### Changed
+- Updated rm3 version
+- Added redis tools
+
 ## [0.3.0] - 2016-9-25
 
 ### Changed
