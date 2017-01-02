@@ -1,7 +1,7 @@
 [rm3 Docker Container](https://hub.docker.com/r/rm3web/rm3/)
 ============================================================
 
-[![rm3](https://img.shields.io/badge/rm3%20version-0.3.2-3F00FF.svg)](https://github.com/rm3web/rm3)
+[![rm3](https://img.shields.io/badge/rm3%20version-0.3.3-3F00FF.svg)](https://github.com/rm3web/rm3)
 
 What is it?
 -----------

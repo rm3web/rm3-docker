@@ -13,7 +13,7 @@ RUN echo 'postgres:5432:*:wirehead:rm3test' > ~/.pgpass && chmod 0600 ~/.pgpass
 RUN mkdir /src
 
 WORKDIR /src
-RUN npm install rm3@0.3.2
+RUN npm install rm3@0.3.3
 
 ADD setup.sh setup.sh
 
