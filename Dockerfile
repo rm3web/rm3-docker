@@ -5,14 +5,15 @@ RUN echo 'deb http://apt.postgresql.org/pub/repos/apt/ jessie-pgdg main 9.4' > /
   librsvg2-dev \
   postgresql-client-9.4 \
   libpq5 \
-  libpq-dev
+  libpq-dev \
+  redis-tools
 
 RUN echo 'postgres:5432:*:wirehead:rm3test' > ~/.pgpass && chmod 0600 ~/.pgpass
 
 RUN mkdir /src
 
 WORKDIR /src
-RUN npm install rm3@0.3.0
+RUN npm install rm3@0.3.1
 
 ADD setup.sh setup.sh
 

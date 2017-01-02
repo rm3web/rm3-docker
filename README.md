@@ -6,7 +6,13 @@
 What is it?
 -----------
 
-rm3 is a system for managing stuff on the web. It's a little more than just a blog engine, but a little less than an enterprise CMS. It is to Drupal as Ghost is to WordPress. It can be a blog, a wiki, a photo archive, or a combination of all of that and more.  Like a blog, it lets you create a series of blog articles in a collection. Like a wiki, it maintains a history of all changes.  Like a CMS, it lets you create a site with more structure than a mere list of posts.  It has good support for both SVG vector graphics and photos.
+rm3 is not just a blog engine, but it's still lighter-weight and friendlier than those enterprise-grade CMS systems.  Conceptually, it is to Drupal as Ghost is to WordPress.
+
+rm3 is able work as a blog, a wiki, a photo archive, or some combination of those... and more.
+
+rm3 has blog-styled views such that you can post a series of dated blog articles and view them as such.  But every entity on the site has a history, like how a wiki works.  Like some of those enterprise CMS systems, you aren't restricted to just creating a mere list of posts.
+
+rm3 has rapidly improving support for media:  It supports photos, but it also supports SVG vector graphics and audio files.  
 
 Release Status
 --------------
